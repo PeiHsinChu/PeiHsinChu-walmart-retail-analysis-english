@@ -1,0 +1,22 @@
+﻿Top 20 Anomalies Text Report
+
+Date: 2020-08-11, Sales: 2171, higher than 7-day average by 2.21 standard deviations
+Date: 2020-12-11, Sales: 2282, higher than 7-day average by 2.17 standard deviations
+Date: 2021-03-11, Sales: 1938, higher than 7-day average by 2.17 standard deviations
+Date: 2021-07-11, Sales: 2413, higher than 7-day average by 2.18 standard deviations
+Date: 2021-08-11, Sales: 2043, higher than 7-day average by 2.19 standard deviations
+Date: 2021-10-11, Sales: 2660, higher than 7-day average by 2.21 standard deviations
+Date: 2022-05-11, Sales: 2018, higher than 7-day average by 2.2 standard deviations
+Date: 2022-06-09, Sales: 812, higher than 7-day average by 2.17 standard deviations
+Date: 2022-06-11, Sales: 2873, higher than 7-day average by 2.22 standard deviations
+Date: 2022-08-11, Sales: 2056, higher than 7-day average by 2.21 standard deviations
+Date: 2022-10-11, Sales: 2036, higher than 7-day average by 2.23 standard deviations
+Date: 2022-12-11, Sales: 2130, higher than 7-day average by 2.17 standard deviations
+Date: 2022-12-31, Sales: 3433, higher than 7-day average by 2.22 standard deviations
+Date: 2023-02-11, Sales: 1438, higher than 7-day average by 2.18 standard deviations
+Date: 2023-04-08, Sales: 1134, higher than 7-day average by 2.22 standard deviations
+Date: 2023-05-11, Sales: 2588, higher than 7-day average by 2.21 standard deviations
+Date: 2023-06-11, Sales: 2650, higher than 7-day average by 2.22 standard deviations
+Date: 2023-07-11, Sales: 2054, higher than 7-day average by 2.16 standard deviations
+Date: 2023-08-11, Sales: 3173, higher than 7-day average by 2.25 standard deviations
+Date: 2023-11-11, Sales: 2570, higher than 7-day average by 2.22 standard deviations

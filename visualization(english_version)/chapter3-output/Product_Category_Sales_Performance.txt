@@ -1,0 +1,9 @@
+Product Category Comprehensive Performance
+
+              category     total    profit  profit_margin  each_transaction  each_order_qua  rating
+Electronic accessories  78175.03  30772.49          39.36            186.58            3.57    5.91
+   Fashion accessories 491833.90 193244.53          39.29            108.38            2.14    5.78
+    Food and beverages  53471.28  21552.86          40.31            307.31            5.47    7.11
+     Health and beauty  46851.18  18671.73          39.85            308.23            5.62    7.00
+    Home and lifestyle 491996.06 193251.61          39.28            108.85            2.14    5.73
+     Sports and travel  52497.93  20613.81          39.27            316.25            5.54    6.92
